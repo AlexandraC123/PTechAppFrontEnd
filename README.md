@@ -1,4 +1,7 @@
-﻿# PTechApp front end
+
+ # PTechApp front end
+
+To run, download Expo Go app. Type "npx expo start" into terminal in VS code. Scan qr code with phone and open in Expo Go. 
 
  App.js: contains navigation to all tabs. Login screen navigation is not fully functioning
 
